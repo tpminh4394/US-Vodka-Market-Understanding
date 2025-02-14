@@ -1,5 +1,5 @@
 # US-Vodka-Market-Understanding
-### There is a dataset present marketshare, volumne sale of major vodka brand in US. The goal is to find the impact of different marketing mix to total sale.
+### There is a dataset present marketshare, volume sale of major vodka brand in US. The goal is to find the impact of different marketing mix to total sale.
 
 As for me, I will examine the impact of the below of the factor on sales:
 - Price 
